@@ -8,6 +8,6 @@ The purpose of this analysis is to compare the total weekly fares for urban, sub
 
 The data was collected for each city type and ploted on a line chart. The chart details the fares for each city type over a period of time. The chart can be seen below:
 
-![Ride Share Chart](/)analysis/PyBer_fare_summary.png)
+![Ride Share Chart](/analysis/PyBer_fare_summary.png)
 
  
