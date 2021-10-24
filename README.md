@@ -24,6 +24,6 @@ A line chart was produced that details the total fares by city type over a perio
 
 With this information we can make a few recommendations. They are as follows:
 
-    - Increase marketing for rural areas in between March and April. The rural average fares are much higher and would result in an significant increase in total fares for that type
-    - Urban city types have 50% more drivers than total rides. Reduce the total number of drivers to be more efficient.
-    -  Increase markerting during the early months before March for suburban and urban city types. This will bring in more rides and increase total fares collected
+    - Increase marketing for rural areas in between March and April. The rural average fares  are much higher and would result in an significant increase in total fares for that type
+    - Urban city types have 50% more drivers than total rides. Reduce the total number of  drivers to be more efficient.
+    - Increase markerting during the early months before March for suburban and urban city types.  This will bring in more rides and increase total fares collected
