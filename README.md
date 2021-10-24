@@ -8,7 +8,7 @@ The purpose of this analysis is to compare the total weekly fares for urban, sub
 
 The data was collected for each city type and compiled into a single summary chart. This allows for a comparison among cities. The table of data can be seen below:
 
-![Summary Chart](/pyber_summary.PNG)
+![Summary Chart](/analysis/pyber_summary.PNG)
 
 With this information, we can determine that urban city types see the most rides with suburban second, followed by the rural city type. A similar trend can be seen with the number of drivers. Urban city types have the largest number of drivers and rural the least.
 
